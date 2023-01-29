@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MuchDarmawanSyam
-- 👀 I’m interested in Anime, Manga and Programming World
+- 👀 I’m interested in Build Web Apps
 - 🌱 I’m currently learning Express and ReactJS
 - 📫 How to reach me mch_darma(Instagram)
 
