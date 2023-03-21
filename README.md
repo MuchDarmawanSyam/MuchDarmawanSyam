@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuchDarmawanSyam
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ExpressJS, ReactJS and NextJs
+- 👀 I’m interested in Web and Android Development
+- 🌱 I’m currently learning ExpressJS, ReactJS and Java
 - 📫 How to reach me mch_darma(Instagram)
 
 <!---
