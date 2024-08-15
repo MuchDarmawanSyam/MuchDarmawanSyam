@@ -1,3 +1,5 @@
+[![Much Darmawan Iriansyah Syam profile views](https://u8views.com/api/v1/github/profiles/56961037/views/day-week-month-total-count.svg)](https://u8views.com/github/MuchDarmawanSyam)
+
 - 👋 Hi, I’m @MuchDarmawanSyam
 - 👀 I’m interested in Web and Android Development
 - 🌱 I’m currently learning ExpressJS, ReactJS and Kotlin
